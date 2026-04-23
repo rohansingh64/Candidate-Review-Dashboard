@@ -81,10 +81,11 @@ hiring-dashboard/
 ```
 
 ## Priority Formula
+```
 Priority Score = (Assignment × 0.30) + (Video × 0.25) + (ATS × 0.20) + (GitHub × 0.15) + (Communication × 0.10)
 
 P0 → score ≥ 80  (Interview Immediately)
 P1 → score ≥ 65  (Strong Shortlist)
 P2 → score ≥ 50  (Review Later)
 P3 → score < 50  (Reject)
-
+```
