@@ -4,16 +4,26 @@ An internal tool for reviewing and prioritizing 1000+ student applicants with au
 
 ## Features
 
-- **Live Priority Engine** — P0–P3 labels based on weighted scoring (Assignment 30%, Video 25%, ATS 20%, GitHub 15%, Communication 10%)
-- **Smart Filters** — filter by assignment/video/ATS score ranges, review status, priority, and shortlist status
-- **Multi-column Sorting** — sort by priority, assignment, video, ATS, or name
-- **Candidate Detail Drawer** — score rings, breakdown bars, reviewer notes
-- **Assignment Evaluation** — rate 6 criteria (UI Quality, Component Structure, State Handling, Edge Cases, Responsiveness, Accessibility) — updates assignment score live
-- **Video Evaluation** — rate 5 criteria + timestamp notes — updates video score live
-- **Comparison Mode** — compare 2–3 candidates side-by-side with best-score highlights
-- **Shortlist & Review Actions** — mark candidates as reviewed or shortlisted
-- **Dashboard Summary** — total, pending, reviewed, shortlisted counts + priority distribution bar
-- **Responsive Design** — works on mobile, tablet, and desktop
+- Live Priority Engine — P0–P3 labels based on weighted scoring (Assignment 30%, Video 25%, ATS 20%, 
+GitHub 15%, Communication 10%)
+
+- Smart Filters — filter by assignment/video/ATS score ranges, review status, priority, and shortlist status
+
+- Multi-column Sorting — sort by priority, assignment, video, ATS, or name
+
+- Candidate Detail Drawer — score rings, breakdown bars, reviewer notes
+
+- Assignment Evaluation — rate 6 criteria (UI Quality, Component Structure, State Handling, Edge Cases, Responsiveness, Accessibility) — updates assignment score live
+
+- Video Evaluation — rate 5 criteria + timestamp notes — updates video score live
+
+- Comparison Mode — compare 2–3 candidates side-by-side with best-score highlights
+
+- Shortlist & Review Actions — mark candidates as reviewed or shortlisted
+
+- Dashboard Summary — total, pending, reviewed, shortlisted counts + priority distribution bar
+
+- Responsive Design — works on mobile, tablet, and desktop
 
 ## Tech Stack
 
@@ -29,7 +39,7 @@ An internal tool for reviewing and prioritizing 1000+ student applicants with au
 ### Installation
 
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/hiring-dashboard.git
+git clone https://github.com/rohansingh64/Candidate-Review-Dashboard.git
 cd hiring-dashboard
 
 # Install dependencies
