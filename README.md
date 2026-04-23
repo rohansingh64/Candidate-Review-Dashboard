@@ -54,7 +54,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 
 ## Project Structure
-
+```
 hiring-dashboard/
 ├── index.html
 ├── package.json
@@ -78,7 +78,7 @@ hiring-dashboard/
         ├── AssignmentEvalPanel.jsx # Assignment scoring form
         ├── VideoEvalPanel.jsx # Video scoring + timestamps
         └── CompareModal.jsx   # Side-by-side comparison
-
+```
 
 ## Priority Formula
 Priority Score = (Assignment × 0.30) + (Video × 0.25) + (ATS × 0.20) + (GitHub × 0.15) + (Communication × 0.10)
