@@ -40,6 +40,7 @@ GitHub 15%, Communication 10%)
 
 # Clone the repo
 git clone https://github.com/rohansingh64/Candidate-Review-Dashboard.git
+
 cd hiring-dashboard
 
 # Install dependencies
